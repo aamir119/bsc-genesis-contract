@@ -152,7 +152,7 @@ library SafeMath {
    *
    * Counterpart to Solidity's `-` operator.
    *
-   * Requirements:
+   *  Requirements:
    * - Subtraction cannot overflow.
    */
   function sub(uint256 a, uint256 b) internal pure returns (uint256) {
